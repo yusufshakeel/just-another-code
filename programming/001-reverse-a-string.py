@@ -9,4 +9,6 @@ while start < end:
     start += 1
     end -= 1
 
+assert ''.join(s) == 'dlroW olleH'
+
 print('after', s)
